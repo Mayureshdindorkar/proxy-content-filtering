@@ -10,7 +10,7 @@ Roll No : CS23MTECH14009
 Name  : Trishita Saha  
 Roll No : CS23MTECH14016 
 
-Subject : Advanced Computer Networks  
+Subject : Advanced Computer Networks (CS50060)
 ACN Programming Assignment-2  
 ---
 
@@ -62,6 +62,7 @@ VM related commands:
     
     1. Command used to enter into VM:   
        ssh ubuntu@<VM_IP_Address>
+
     
     2. To run the container in vm
        lxc exec alice1 -- /bin/bash
